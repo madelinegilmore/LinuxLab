@@ -1,0 +1,1 @@
+Enter the text to encrypt: Enter the shift value: 
